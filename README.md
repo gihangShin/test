@@ -6,13 +6,14 @@
 - 사내에서 시행하는 역량 개발 프로젝트로 업무시간의 일정 시간을 할당하려고 합니다.(오팀장님 피드백 필요!!)
 - 업무의 진척도에 따라 업무 외의 개인 시간도 활용합니다. (퇴근 후 1시간 or 다른 의견 ...)
 - 참여자들의 기술 스택이 모두 가능하여 업무를 분담하되 최대한 모든 부분을 같이 작업하고 서로 리뷰하고자 합니다.
+- 개발작업에 더불어 문서화 작업에 무게를 두고자 합니다. e.g. issue, study, 업무일지 ...
 ## Stack
 ### - Frontend
   - React
 ### - Backend
   - Spring Framework
     - jdk11
-    - JPA, JPQL
+    - JPA, QueryDSL
     - dependancys
       - ...
   - postgreSQL
@@ -36,6 +37,10 @@
 
 ## [todoList](./todoList.md)
 - 일정 및 업무 관리 todoList 작성
+
+## issue
+- [issue 작성 가이드](Issue/issue%20작성%20가이드.md)
+- 발생한 문제에 대한 
 
 ## 참여자 (업무 일지 링크)
 - [신기항 인턴](./신기항.md)
